@@ -4,6 +4,7 @@ com\mycompany\operacion\Calculadora$18.class
 com\mycompany\operacion\CalculadoraGUI.class
 com\mycompany\operacion\Calculadora$7.class
 com\mycompany\operacion\Calculadora$16.class
+com\mycompany\calculadora\CalculadoraTextual.class
 com\mycompany\operacion\Calculadora$9.class
 com\mycompany\operacion\Calculadora$3.class
 com\mycompany\operacion\CalculadoraGUI$1.class
@@ -22,4 +23,3 @@ com\mycompany\operacion\Calculadora$4.class
 com\mycompany\operacion\Calculadora$14.class
 com\mycompany\operacion\Calculadora$5.class
 com\mycompany\operacion\Calculadora$2.class
-com\mycompany\operacion\Operacion.class
